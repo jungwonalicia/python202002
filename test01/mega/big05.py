@@ -1,0 +1,8 @@
+name = input("당신의 이름은: ")
+age = input("당신의 나이는: ")
+gender = input("당신의 성별은: ")
+hobby = input("당신의 취미는: ")
+life = input("당신의 좌우명은: ")
+print("---------------------------")
+print(name, "은 ", age, "세이고, ", gender, "이고 ", hobby, "가 취미이고")
+print(life, "라는 좌우명을 가지고 살아간다.")
